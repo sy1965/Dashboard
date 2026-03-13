@@ -31,34 +31,35 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 4rem 2rem;
+  padding: 2rem 1.5rem;
 }
 
 header {
   text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
   animation: fadeInDown 0.8s ease-out;
 }
 
 h1 {
-  font-size: 3.5rem;
+  font-size: 2.25rem;
   font-weight: 700;
   background: linear-gradient(to right, #38bdf8, #818cf8, #c084fc);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   letter-spacing: -0.025em;
 }
 
 .subtitle {
   color: var(--text-secondary);
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
 }
 
 .card {
@@ -66,8 +67,8 @@ h1 {
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--glass-border);
-  border-radius: 24px;
-  padding: 2rem;
+  border-radius: 16px;
+  padding: 1.25rem;
   box-shadow: var(--glass-shadow);
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   display: flex;
@@ -86,14 +87,14 @@ h1 {
 .card-header {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
-  margin-bottom: 1.5rem;
+  gap: 1rem;
+  margin-bottom: 1rem;
 }
 
 .app-icon {
-  width: 64px;
-  height: 64px;
-  border-radius: 16px;
+  width: 48px;
+  height: 48px;
+  border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   object-fit: cover;
 }
@@ -149,14 +150,15 @@ h1 {
 
 .view-link {
   display: block;
-  margin-top: 2rem;
+  margin-top: 1.25rem;
   text-align: center;
-  padding: 1rem;
-  border-radius: 12px;
+  padding: 0.6rem;
+  border-radius: 8px;
   background: rgba(56, 189, 248, 0.1);
   color: var(--accent-color);
   text-decoration: none;
   font-weight: 600;
+  font-size: 0.875rem;
   transition: all 0.3s ease;
   border: 1px solid transparent;
 }
