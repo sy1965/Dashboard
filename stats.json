@@ -1,0 +1,82 @@
+[
+  {
+    "id": "com.dev.reydium.sipcalculator",
+    "name": "SIP Calculator",
+    "rating": "N/A",
+    "downloads": "10+",
+    "iconUrl": "https://play-lh.googleusercontent.com/acbLATL1NekokiqMFDbGIJlo2SQhlDjgcU0EUcJGRCB-qXRE1GL1kyeLnAu25OtnGszubi7QHwzAIxNsZJsB=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.sipcalculator"
+  },
+  {
+    "id": "com.dev.reydium.passportphoto",
+    "name": "ID Photo Maker: Passport AI",
+    "rating": "N/A",
+    "downloads": "1+",
+    "iconUrl": "https://play-lh.googleusercontent.com/ye9MiYF2jOtJceWHBIdgCzv9pzAevaOq0qiNxHdrOku3l1PLZqrcWYDgzfWtk0fWVPw9ym37fnQc6g_9md11MA=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.passportphoto"
+  },
+  {
+    "id": "com.dev.reydium.collagemaker",
+    "name": "Collage Maker AI - Grids",
+    "rating": "N/A",
+    "downloads": "10+",
+    "iconUrl": "https://play-lh.googleusercontent.com/Cij_bxGkr_5EnpNBu2hfqTYz5MSoAQFiBcis3aZO3VJlrUbhft5BYVvm9Lw1ZL0p9DwHMYY114Dn8vLYrGwH=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.collagemaker"
+  },
+  {
+    "id": "com.dev.reydium.emicalculator",
+    "name": "EMI Calculator",
+    "rating": "N/A",
+    "downloads": "5+",
+    "iconUrl": "https://play-lh.googleusercontent.com/NfWp822Cyq5T9vjj48rN740767Y__s_0zVTh-qPk5cieNiEq8ERqznsGoQwqhj8YEwVm-p-y6G0SRhJ3gvrc96w=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.emicalculator"
+  },
+  {
+    "id": "com.dev.reydium.puzzle",
+    "name": "Puzzle Kids - Jigsaw",
+    "rating": "N/A",
+    "downloads": "1+",
+    "iconUrl": "https://play-lh.googleusercontent.com/e2KUlrgH4yZmONU7R-MiubrSNrOg8YPjdZ9Ir9ErcLN9pnANa4N_fbTiH2ZkqfO4_LmpWAiGqRpxeoPK5qM8Yg=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.puzzle"
+  },
+  {
+    "id": "com.dev.reydium.fruitshoot",
+    "name": "Fruit Shoot - Bubble Pop",
+    "rating": "N/A",
+    "downloads": "5+",
+    "iconUrl": "https://play-lh.googleusercontent.com/4AsnMgUcJ8QCjO-RMY0UrJ9Sro4qexo4dyTkylW3RcKlQZaTNmUdLzpR1kUBIaGnTkMXqDdlvPYggJMiyaHrug=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.fruitshoot"
+  },
+  {
+    "id": "com.dev.reydium.callbreak",
+    "name": "Call Break : Lakdi",
+    "rating": "N/A",
+    "downloads": "10+",
+    "iconUrl": "https://play-lh.googleusercontent.com/W0aJrS64c1ycBfG0tx0PhID2sqrhERVORQv-RchX1WWCOy9FvE9B9fmSPYbAe5rBYXG7Tf1gfj6de6lrZKeA=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.callbreak"
+  },
+  {
+    "id": "com.dev.reydium.flappyghost",
+    "name": "Flappy Ghost",
+    "rating": "N/A",
+    "downloads": "5+",
+    "iconUrl": "https://play-lh.googleusercontent.com/M3jEBrXjPGVbvp3e5TLzCG26E691oa26L827loFHV7GIA4xUdyRPO-6Q1XGGdr9csAvvBb-jWvpS9ei4uaiEzfA=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.flappyghost"
+  },
+  {
+    "id": "com.dev.reydium.toycactus",
+    "name": "Talking Toy Dancing Cactus",
+    "rating": "N/A",
+    "downloads": "10+",
+    "iconUrl": "https://play-lh.googleusercontent.com/ErvuStArURoDsPOEnKkghWMiNa2cl-Zrrhi5xc4dTbW2ywutWTAcMg-Hn55VkKRxhbZiP1uumO4JdYPlvXjR=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.toycactus"
+  },
+  {
+    "id": "com.dev.reydium.studypulse",
+    "name": "Study Pulse - Focus Timer",
+    "rating": "N/A",
+    "downloads": "1+",
+    "iconUrl": "https://play-lh.googleusercontent.com/rw6n1tEUdIbWMz9qEVgT__sfHS_YQfSzW3mbGKcIym9O4GaaN3qyaJFEmOONz_tuK4_YSndKDBjFfJSa6tgahQ=w240-h480-rw",
+    "url": "https://play.google.com/store/apps/details?id=com.dev.reydium.studypulse"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "com.dev.reydium.callbreak",
+    "name": "Call Break : Lakdi"
+  },
+  {
+    "id": "com.dev.reydium.collagemaker",
+    "name": "Collage Maker"
+  },
+  {
+    "id": "com.dev.reydium.sipcalculator",
+    "name": "SIP Calculator"
+  },
+  {
+    "id": "com.dev.reydium.emicalculator",
+    "name": "EMI Calculator"
+  },
+  {
+    "id": "com.dev.reydium.toycactus",
+    "name": "Baby Toy Dancing Cactus"
+  },
+  {
+    "id": "com.dev.reydium.flappyghost",
+    "name": "Flappy Ghost"
+  }
+]

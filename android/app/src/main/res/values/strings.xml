@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Play Store Tracker</string>
+    <string name="title_activity_main">Play Store Tracker</string>
+    <string name="package_name">com.dev.reydium.tracker</string>
+    <string name="custom_url_scheme">com.dev.reydium.tracker</string>
+</resources>
