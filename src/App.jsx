@@ -29,7 +29,7 @@ function App() {
     useEffect(() => {
         const loadStats = async () => {
             try {
-                const response = await fetch('/stats.json');
+                const response = await fetch('stats.json');
                 const data = await response.json();
 
                 // Sort by downloads descending
